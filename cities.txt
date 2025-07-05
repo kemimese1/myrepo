@@ -2,3 +2,5 @@ canada
 mexico
 
 australia
+uk
+usa
